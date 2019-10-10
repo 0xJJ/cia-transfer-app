@@ -9,7 +9,7 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="Secure Sharing"
+        android:label="CIA-Transfer"
         android:icon="@mipmap/app_icon"
         android:roundIcon="@mipmap/app_icon">
         <activity
